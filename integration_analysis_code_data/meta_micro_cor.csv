@@ -1,0 +1,301 @@
+meta,micro,cor_value,p_value
+Doristerol,Actinobaculum_sp_oral_taxon_183,-0.0039061220177009468,0.9785219970004835
+Doristerol,Mogibacterium_diversum,-0.017404018580559434,0.9045137706426967
+Doristerol,Actinomyces_sp_oral_taxon_181,0.09768771626982625,0.49973788253818097
+Doristerol,Enterorhabdus_caecimuris,0.3023118378488268,0.03285861994391282
+Doristerol,Asaccharobacter_celatus,0.3295145866014159,0.01945135336905897
+Doristerol,Eubacterium_sulci,0.09491572013192467,0.5120411197555752
+Doristerol,Gemella_sanguinis,0.2555369019374859,0.07327985690544847
+Doristerol,Dorea_longicatena,0.3178826749883495,0.024473016972908913
+Doristerol,Adlercreutzia_equolifaciens,0.308238397532948,0.029422580897824083
+Doristerol,Enterococcus_faecalis,0.014265220806573038,0.9216750343948058
+Doristerol,Atopobium_rimae,0.16413005911997153,0.25471777531682877
+Doristerol,Atopobium_parvulum,0.2507456240510144,0.07902468130313041
+Doristerol,Eubacterium_brachy,0.23750991647460418,0.0967474189251193
+Doristerol,Collinsella_aerofaciens,0.045821326969760004,0.7520201961454743
+Doristerol,Actinomyces_naeslundii,0.188366830082167,0.19018618352554637
+"PC(18:0/18:2(9Z,12Z))",Actinobaculum_sp_oral_taxon_183,0.12351047788364262,0.3928057876423299
+"PC(18:0/18:2(9Z,12Z))",Mogibacterium_diversum,0.13253087833229335,0.35888694565448276
+"PC(18:0/18:2(9Z,12Z))",Actinomyces_sp_oral_taxon_181,0.1774595442178007,0.21761164042194328
+"PC(18:0/18:2(9Z,12Z))",Enterorhabdus_caecimuris,0.09567248153214009,0.508667194122848
+"PC(18:0/18:2(9Z,12Z))",Asaccharobacter_celatus,0.19521227238301425,0.17428678336527895
+"PC(18:0/18:2(9Z,12Z))",Eubacterium_sulci,0.14210764211295293,0.32489679735082666
+"PC(18:0/18:2(9Z,12Z))",Gemella_sanguinis,0.1559932920832895,0.2793506226610645
+"PC(18:0/18:2(9Z,12Z))",Dorea_longicatena,0.23825573356031943,0.09567327714017203
+"PC(18:0/18:2(9Z,12Z))",Adlercreutzia_equolifaciens,0.16913330888777084,0.2403203819456357
+"PC(18:0/18:2(9Z,12Z))",Enterococcus_faecalis,-0.06500533546409909,0.6537880618078548
+"PC(18:0/18:2(9Z,12Z))",Atopobium_rimae,0.0747107932426336,0.6061024791719414
+"PC(18:0/18:2(9Z,12Z))",Atopobium_parvulum,0.2692272292255754,0.058671463228310045
+"PC(18:0/18:2(9Z,12Z))",Eubacterium_brachy,0.04446257859882518,0.7591497225095112
+"PC(18:0/18:2(9Z,12Z))",Collinsella_aerofaciens,0.09087416208258482,0.5302493341928602
+"PC(18:0/18:2(9Z,12Z))",Actinomyces_naeslundii,0.10833315887258205,0.45393914229027577
+"2-[4-(3-Hydroxypropyl)-2-methoxyphenoxy]-1,3-propanediol 1-glucoside",Actinobaculum_sp_oral_taxon_183,0.26182020679209583,0.06625309808700738
+"2-[4-(3-Hydroxypropyl)-2-methoxyphenoxy]-1,3-propanediol 1-glucoside",Mogibacterium_diversum,0.3051729573821087,0.031160450744812034
+"2-[4-(3-Hydroxypropyl)-2-methoxyphenoxy]-1,3-propanediol 1-glucoside",Actinomyces_sp_oral_taxon_181,0.2311101040976009,0.10635244012408596
+"2-[4-(3-Hydroxypropyl)-2-methoxyphenoxy]-1,3-propanediol 1-glucoside",Enterorhabdus_caecimuris,-0.021291115786623467,0.8833217611804984
+"2-[4-(3-Hydroxypropyl)-2-methoxyphenoxy]-1,3-propanediol 1-glucoside",Asaccharobacter_celatus,-0.017920787011016962,0.9016922836006604
+"2-[4-(3-Hydroxypropyl)-2-methoxyphenoxy]-1,3-propanediol 1-glucoside",Eubacterium_sulci,0.34866900553810937,0.013082274442211458
+"2-[4-(3-Hydroxypropyl)-2-methoxyphenoxy]-1,3-propanediol 1-glucoside",Gemella_sanguinis,0.36930102748513893,0.008307184138728229
+"2-[4-(3-Hydroxypropyl)-2-methoxyphenoxy]-1,3-propanediol 1-glucoside",Dorea_longicatena,0.060249128991136276,0.6776820840495288
+"2-[4-(3-Hydroxypropyl)-2-methoxyphenoxy]-1,3-propanediol 1-glucoside",Adlercreutzia_equolifaciens,-0.01072803082171293,0.9410565131807189
+"2-[4-(3-Hydroxypropyl)-2-methoxyphenoxy]-1,3-propanediol 1-glucoside",Enterococcus_faecalis,0.023253469688763365,0.8726529291143801
+"2-[4-(3-Hydroxypropyl)-2-methoxyphenoxy]-1,3-propanediol 1-glucoside",Atopobium_rimae,0.1070831792750903,0.459194999018084
+"2-[4-(3-Hydroxypropyl)-2-methoxyphenoxy]-1,3-propanediol 1-glucoside",Atopobium_parvulum,0.1860600059400511,0.19577009504549842
+"2-[4-(3-Hydroxypropyl)-2-methoxyphenoxy]-1,3-propanediol 1-glucoside",Eubacterium_brachy,0.1509169757516807,0.29548732192779675
+"2-[4-(3-Hydroxypropyl)-2-methoxyphenoxy]-1,3-propanediol 1-glucoside",Collinsella_aerofaciens,0.2098463076843621,0.14356360782786007
+"2-[4-(3-Hydroxypropyl)-2-methoxyphenoxy]-1,3-propanediol 1-glucoside",Actinomyces_naeslundii,0.03405354245584303,0.8143852743321436
+Methyl dihydrojasmonate,Actinobaculum_sp_oral_taxon_183,0.13902493434831398,0.33560921280499845
+Methyl dihydrojasmonate,Mogibacterium_diversum,0.1682549164713364,0.24280698835482098
+Methyl dihydrojasmonate,Actinomyces_sp_oral_taxon_181,0.17231297467277007,0.23146475357285284
+Methyl dihydrojasmonate,Enterorhabdus_caecimuris,0.14353623019974324,0.3200063684551734
+Methyl dihydrojasmonate,Asaccharobacter_celatus,0.1990450418593589,0.16581611784749975
+Methyl dihydrojasmonate,Eubacterium_sulci,0.25805664714420884,0.07039424292152079
+Methyl dihydrojasmonate,Gemella_sanguinis,0.3276964106252287,0.02017336824124429
+Methyl dihydrojasmonate,Dorea_longicatena,0.1673800622650801,0.24530093192180855
+Methyl dihydrojasmonate,Adlercreutzia_equolifaciens,0.21471460730729752,0.13429281057861928
+Methyl dihydrojasmonate,Enterococcus_faecalis,0.2140363008010613,0.13555693518679207
+Methyl dihydrojasmonate,Atopobium_rimae,0.2291497559070289,0.10943641431012818
+Methyl dihydrojasmonate,Atopobium_parvulum,0.22693278661456087,0.11300607307219039
+Methyl dihydrojasmonate,Eubacterium_brachy,0.25383543179769225,0.07528081144828623
+Methyl dihydrojasmonate,Collinsella_aerofaciens,0.0030259366866822643,0.983360960828726
+Methyl dihydrojasmonate,Actinomyces_naeslundii,0.18711139994554613,0.19321082599751896
+3-Methyl-1-phenyl-1-butanone,Actinobaculum_sp_oral_taxon_183,-0.038896172767810835,0.7885588819522431
+3-Methyl-1-phenyl-1-butanone,Mogibacterium_diversum,0.10283316241643567,0.47730976399389013
+3-Methyl-1-phenyl-1-butanone,Actinomyces_sp_oral_taxon_181,0.11361295033369456,0.43210533838854503
+3-Methyl-1-phenyl-1-butanone,Enterorhabdus_caecimuris,0.051659839079171675,0.7216241138211019
+3-Methyl-1-phenyl-1-butanone,Asaccharobacter_celatus,0.1020345387621486,0.48075546744255515
+3-Methyl-1-phenyl-1-butanone,Eubacterium_sulci,0.07702533987272338,0.5949569584255362
+3-Methyl-1-phenyl-1-butanone,Gemella_sanguinis,0.0018736490271784073,0.9896967213214514
+3-Methyl-1-phenyl-1-butanone,Dorea_longicatena,0.00754917258707773,0.9585037812892067
+3-Methyl-1-phenyl-1-butanone,Adlercreutzia_equolifaciens,0.1090768684025836,0.4508276842798242
+3-Methyl-1-phenyl-1-butanone,Enterococcus_faecalis,0.18596976880764118,0.19599086300287336
+3-Methyl-1-phenyl-1-butanone,Atopobium_rimae,0.06845625581385746,0.6366624338842737
+3-Methyl-1-phenyl-1-butanone,Atopobium_parvulum,0.3445753118603238,0.01426784463485655
+3-Methyl-1-phenyl-1-butanone,Eubacterium_brachy,0.08651770793341618,0.550226302325544
+3-Methyl-1-phenyl-1-butanone,Collinsella_aerofaciens,0.13078770790215566,0.36529864029706416
+3-Methyl-1-phenyl-1-butanone,Actinomyces_naeslundii,-0.07370421093745443,0.6109776498399637
+2-Butyl-1H-benzimidazole,Actinobaculum_sp_oral_taxon_183,0.05881189347777904,0.6849659756376493
+2-Butyl-1H-benzimidazole,Mogibacterium_diversum,0.09140725548127616,0.5278295174140639
+2-Butyl-1H-benzimidazole,Actinomyces_sp_oral_taxon_181,0.1165261029063534,0.42031532101211677
+2-Butyl-1H-benzimidazole,Enterorhabdus_caecimuris,-0.041536931314988944,0.7745677273268665
+2-Butyl-1H-benzimidazole,Asaccharobacter_celatus,0.02548273759948077,0.860560209395761
+2-Butyl-1H-benzimidazole,Eubacterium_sulci,0.11372479559362546,0.43164928637502165
+2-Butyl-1H-benzimidazole,Gemella_sanguinis,0.16858037016330849,0.24188363975270727
+2-Butyl-1H-benzimidazole,Dorea_longicatena,0.211521084143662,0.1403221606802907
+2-Butyl-1H-benzimidazole,Adlercreutzia_equolifaciens,0.02037812553215327,0.8882925747136291
+2-Butyl-1H-benzimidazole,Enterococcus_faecalis,0.2622249125500946,0.06581961385879444
+2-Butyl-1H-benzimidazole,Atopobium_rimae,0.09849178170809011,0.4961977732790861
+2-Butyl-1H-benzimidazole,Atopobium_parvulum,0.29529103139482793,0.037352919870046915
+2-Butyl-1H-benzimidazole,Eubacterium_brachy,0.12315607642348023,0.3941756808760586
+2-Butyl-1H-benzimidazole,Collinsella_aerofaciens,-0.041594621756616525,0.7742628465180047
+2-Butyl-1H-benzimidazole,Actinomyces_naeslundii,0.08050445751081785,0.5783764369200498
+Triphenylphosphine oxide,Actinobaculum_sp_oral_taxon_183,0.08543954216182494,0.5552251425222221
+Triphenylphosphine oxide,Mogibacterium_diversum,0.1573593258918172,0.2751092956026346
+Triphenylphosphine oxide,Actinomyces_sp_oral_taxon_181,0.1917825443667066,0.1821281634640312
+Triphenylphosphine oxide,Enterorhabdus_caecimuris,0.09270162816656473,0.5219768801421831
+Triphenylphosphine oxide,Asaccharobacter_celatus,0.15201592450096757,0.29194373225179693
+Triphenylphosphine oxide,Eubacterium_sulci,0.16787946016201855,0.24387517741185966
+Triphenylphosphine oxide,Gemella_sanguinis,0.11755946588475803,0.41617752387295004
+Triphenylphosphine oxide,Dorea_longicatena,0.10756368839040051,0.4571706807059521
+Triphenylphosphine oxide,Adlercreutzia_equolifaciens,0.1467533020061113,0.30916516653817655
+Triphenylphosphine oxide,Enterococcus_faecalis,-0.004059209172602083,0.9776804484307872
+Triphenylphosphine oxide,Atopobium_rimae,0.18048808008753986,0.20973498073062702
+Triphenylphosphine oxide,Atopobium_parvulum,0.3767996490877634,0.0069927082052232215
+Triphenylphosphine oxide,Eubacterium_brachy,0.06281937923861086,0.6647289224145838
+Triphenylphosphine oxide,Collinsella_aerofaciens,0.01522574491552822,0.9164192890441191
+Triphenylphosphine oxide,Actinomyces_naeslundii,0.16953537803285293,0.2391879978326048
+"3,4,5-trihydroxy-6-[1-(4-methoxyphenyl)-3-phenylpropoxy]oxane-2-carboxylic acid",Actinobaculum_sp_oral_taxon_183,0.2993409844832514,0.034702393948587866
+"3,4,5-trihydroxy-6-[1-(4-methoxyphenyl)-3-phenylpropoxy]oxane-2-carboxylic acid",Mogibacterium_diversum,0.12954182250959337,0.36992338890213616
+"3,4,5-trihydroxy-6-[1-(4-methoxyphenyl)-3-phenylpropoxy]oxane-2-carboxylic acid",Actinomyces_sp_oral_taxon_181,0.2622808366250504,0.06575989145500849
+"3,4,5-trihydroxy-6-[1-(4-methoxyphenyl)-3-phenylpropoxy]oxane-2-carboxylic acid",Enterorhabdus_caecimuris,-0.07168559139527231,0.6208047329181119
+"3,4,5-trihydroxy-6-[1-(4-methoxyphenyl)-3-phenylpropoxy]oxane-2-carboxylic acid",Asaccharobacter_celatus,-0.05485003885741897,0.7051902361977342
+"3,4,5-trihydroxy-6-[1-(4-methoxyphenyl)-3-phenylpropoxy]oxane-2-carboxylic acid",Eubacterium_sulci,0.3400622820620612,0.015680041922562917
+"3,4,5-trihydroxy-6-[1-(4-methoxyphenyl)-3-phenylpropoxy]oxane-2-carboxylic acid",Gemella_sanguinis,0.2772520137396562,0.05126157146990882
+"3,4,5-trihydroxy-6-[1-(4-methoxyphenyl)-3-phenylpropoxy]oxane-2-carboxylic acid",Dorea_longicatena,-0.023993867012431763,0.8686332885478331
+"3,4,5-trihydroxy-6-[1-(4-methoxyphenyl)-3-phenylpropoxy]oxane-2-carboxylic acid",Adlercreutzia_equolifaciens,-0.035469231089969536,0.8068136721982389
+"3,4,5-trihydroxy-6-[1-(4-methoxyphenyl)-3-phenylpropoxy]oxane-2-carboxylic acid",Enterococcus_faecalis,0.014671141723833245,0.9194535204835518
+"3,4,5-trihydroxy-6-[1-(4-methoxyphenyl)-3-phenylpropoxy]oxane-2-carboxylic acid",Atopobium_rimae,0.11292532962065042,0.4349150615075532
+"3,4,5-trihydroxy-6-[1-(4-methoxyphenyl)-3-phenylpropoxy]oxane-2-carboxylic acid",Atopobium_parvulum,0.11722787384761575,0.41750274263857867
+"3,4,5-trihydroxy-6-[1-(4-methoxyphenyl)-3-phenylpropoxy]oxane-2-carboxylic acid",Eubacterium_brachy,0.22441941110033078,0.11715969156251585
+"3,4,5-trihydroxy-6-[1-(4-methoxyphenyl)-3-phenylpropoxy]oxane-2-carboxylic acid",Collinsella_aerofaciens,0.1482228669063725,0.30429205448216606
+"3,4,5-trihydroxy-6-[1-(4-methoxyphenyl)-3-phenylpropoxy]oxane-2-carboxylic acid",Actinomyces_naeslundii,0.05706976162722694,0.6938331987346964
+L-argininium(1+),Actinobaculum_sp_oral_taxon_183,-0.32310781140785433,0.02209686816497472
+L-argininium(1+),Mogibacterium_diversum,-0.3189611826287569,0.023965749502552695
+L-argininium(1+),Actinomyces_sp_oral_taxon_181,-0.12240096059454872,0.397103804656483
+L-argininium(1+),Enterorhabdus_caecimuris,0.005886690928084526,0.9676365540188574
+L-argininium(1+),Asaccharobacter_celatus,0.0034184160194425423,0.9812031575459552
+L-argininium(1+),Eubacterium_sulci,-0.36501210966678516,0.00915126572689522
+L-argininium(1+),Gemella_sanguinis,-0.4527985149014485,0.00096086233031719
+L-argininium(1+),Dorea_longicatena,-0.15430124096772252,0.28466356437036006
+L-argininium(1+),Adlercreutzia_equolifaciens,-0.04963639140955217,0.7321130490275405
+L-argininium(1+),Enterococcus_faecalis,0.06274377606793506,0.6651085782588917
+L-argininium(1+),Atopobium_rimae,-0.21787784229912469,0.1285139751690111
+L-argininium(1+),Atopobium_parvulum,-0.21449324467014486,0.1347043785903874
+L-argininium(1+),Eubacterium_brachy,-0.29995313176567845,0.03431564349969119
+L-argininium(1+),Collinsella_aerofaciens,-0.1559077854757243,0.27961753152138413
+L-argininium(1+),Actinomyces_naeslundii,-0.21671862733418995,0.13060958431485212
+Somatostatin fragment 3-14,Actinobaculum_sp_oral_taxon_183,-0.2614901119736986,0.06660834949309047
+Somatostatin fragment 3-14,Mogibacterium_diversum,-0.18059682438442012,0.209455924986589
+Somatostatin fragment 3-14,Actinomyces_sp_oral_taxon_181,-0.21435947680481257,0.134953543407185
+Somatostatin fragment 3-14,Enterorhabdus_caecimuris,0.18391782965034176,0.2010587566527489
+Somatostatin fragment 3-14,Asaccharobacter_celatus,0.09395464635255714,0.5163421812483083
+Somatostatin fragment 3-14,Eubacterium_sulci,-0.29934957887760855,0.03469693922763278
+Somatostatin fragment 3-14,Gemella_sanguinis,-0.2898390918196752,0.041182308116798114
+Somatostatin fragment 3-14,Dorea_longicatena,-0.09448486709304292,0.513967061222095
+Somatostatin fragment 3-14,Adlercreutzia_equolifaciens,0.07807337263074338,0.5899402344406168
+Somatostatin fragment 3-14,Enterococcus_faecalis,-0.07985044329532956,0.5814771849822631
+Somatostatin fragment 3-14,Atopobium_rimae,-0.2051625738999644,0.1529236540024702
+Somatostatin fragment 3-14,Atopobium_parvulum,-0.3374670021778004,0.01654481036698177
+Somatostatin fragment 3-14,Eubacterium_brachy,-0.05213632312857166,0.7191614398117041
+Somatostatin fragment 3-14,Collinsella_aerofaciens,-0.06609029969642533,0.6483842013186023
+Somatostatin fragment 3-14,Actinomyces_naeslundii,-0.040958408207258205,0.7776269442334057
+Benzophenone,Actinobaculum_sp_oral_taxon_183,-0.07113543336461019,0.6234945235245448
+Benzophenone,Mogibacterium_diversum,0.12896329557616756,0.372082813671199
+Benzophenone,Actinomyces_sp_oral_taxon_181,0.11186505879009927,0.43926743862233086
+Benzophenone,Enterorhabdus_caecimuris,-0.010508018385646209,0.9422632702752809
+Benzophenone,Asaccharobacter_celatus,0.12099120941542088,0.4026042938148965
+Benzophenone,Eubacterium_sulci,0.05207551226799941,0.7194755799080068
+Benzophenone,Gemella_sanguinis,0.11534952087834247,0.4250549598204637
+Benzophenone,Dorea_longicatena,0.16478353156634,0.2528050660988594
+Benzophenone,Adlercreutzia_equolifaciens,0.11636576972642684,0.42095941802848336
+Benzophenone,Enterococcus_faecalis,0.13343200437367705,0.3555994767441837
+Benzophenone,Atopobium_rimae,0.18591784334988398,0.19611798029795358
+Benzophenone,Atopobium_parvulum,0.3214733053921226,0.022818333637124096
+Benzophenone,Eubacterium_brachy,0.05687598886753271,0.6948220163913124
+Benzophenone,Collinsella_aerofaciens,-0.010518732291800252,0.9422045020466692
+Benzophenone,Actinomyces_naeslundii,0.15175011776405625,0.2927982871572845
+11beta-Hydroxytestosterone,Actinobaculum_sp_oral_taxon_183,0.19117991565508152,0.18353171089514328
+11beta-Hydroxytestosterone,Mogibacterium_diversum,0.14260688908945934,0.3231824192069298
+11beta-Hydroxytestosterone,Actinomyces_sp_oral_taxon_181,0.052679509022247266,0.7163574634162382
+11beta-Hydroxytestosterone,Enterorhabdus_caecimuris,0.21538686900421417,0.13304868080132853
+11beta-Hydroxytestosterone,Asaccharobacter_celatus,0.2743537826513204,0.05384490325112115
+11beta-Hydroxytestosterone,Eubacterium_sulci,0.1042960816732356,0.47103201823983387
+11beta-Hydroxytestosterone,Gemella_sanguinis,0.252942618669085,0.07634791559607662
+11beta-Hydroxytestosterone,Dorea_longicatena,0.051786362269316655,0.7209699139570305
+11beta-Hydroxytestosterone,Adlercreutzia_equolifaciens,0.289862153350301,0.04116545667853668
+11beta-Hydroxytestosterone,Enterococcus_faecalis,0.11180221835395454,0.4395261544952821
+11beta-Hydroxytestosterone,Atopobium_rimae,0.0839207714344578,0.5623030513669287
+11beta-Hydroxytestosterone,Atopobium_parvulum,0.14139612676819546,0.3273499739918403
+11beta-Hydroxytestosterone,Eubacterium_brachy,0.10758288899546531,0.457089892197326
+11beta-Hydroxytestosterone,Collinsella_aerofaciens,0.12223823599375178,0.39773646395468776
+11beta-Hydroxytestosterone,Actinomyces_naeslundii,0.1770679588525786,0.21864491726854288
+Furanofukinin,Actinobaculum_sp_oral_taxon_183,-0.3411529948135714,0.015328268141382523
+Furanofukinin,Mogibacterium_diversum,-0.45771122549537757,0.0008314630686651753
+Furanofukinin,Actinomyces_sp_oral_taxon_181,-0.4583845573078677,0.0008150047594348457
+Furanofukinin,Enterorhabdus_caecimuris,-0.07465644476084768,0.6063652738356927
+Furanofukinin,Asaccharobacter_celatus,-0.16511985257549733,0.25182444371795504
+Furanofukinin,Eubacterium_sulci,-0.3979884321986102,0.004205710804032476
+Furanofukinin,Gemella_sanguinis,-0.09959165213694458,0.4913763681862313
+Furanofukinin,Dorea_longicatena,-0.0682310566946707,0.6377744219608625
+Furanofukinin,Adlercreutzia_equolifaciens,-0.1489091742286565,0.30203325754075244
+Furanofukinin,Enterococcus_faecalis,-0.011945672707943274,0.9343802513053118
+Furanofukinin,Atopobium_rimae,-0.2644775827025337,0.06344795631142565
+Furanofukinin,Atopobium_parvulum,-0.3843818460824551,0.005851313619392824
+Furanofukinin,Eubacterium_brachy,-0.12714341426736808,0.37892493732363564
+Furanofukinin,Collinsella_aerofaciens,-0.37084535171228195,0.008020218475711428
+Furanofukinin,Actinomyces_naeslundii,-0.221635728702622,0.12189436583061387
+PE(15:0/22:1(13Z)),Actinobaculum_sp_oral_taxon_183,0.17225447940030514,0.23162561316058836
+PE(15:0/22:1(13Z)),Mogibacterium_diversum,-0.049030157607836425,0.7352651399777932
+PE(15:0/22:1(13Z)),Actinomyces_sp_oral_taxon_181,0.10982585198923808,0.4477060146430132
+PE(15:0/22:1(13Z)),Enterorhabdus_caecimuris,0.11371766493785714,0.4316783537485285
+PE(15:0/22:1(13Z)),Asaccharobacter_celatus,0.20696955172261208,0.14926071168388233
+PE(15:0/22:1(13Z)),Eubacterium_sulci,0.11362809083546763,0.432043586779278
+PE(15:0/22:1(13Z)),Gemella_sanguinis,0.18846987522104855,0.18993943051429438
+PE(15:0/22:1(13Z)),Dorea_longicatena,0.13025929005346223,0.36725585065085364
+PE(15:0/22:1(13Z)),Adlercreutzia_equolifaciens,0.19705698719883222,0.17017160937177533
+PE(15:0/22:1(13Z)),Enterococcus_faecalis,0.008350373155067143,0.9541042307637895
+PE(15:0/22:1(13Z)),Atopobium_rimae,0.3069534522737826,0.030140957164209534
+PE(15:0/22:1(13Z)),Atopobium_parvulum,0.21674420940294392,0.1305630622026961
+PE(15:0/22:1(13Z)),Eubacterium_brachy,0.1998182889314377,0.16414418925131474
+PE(15:0/22:1(13Z)),Collinsella_aerofaciens,0.293131612679712,0.038833004369096265
+PE(15:0/22:1(13Z)),Actinomyces_naeslundii,0.10456686846271923,0.46987486450602856
+PS(18:0/20:1(11Z)),Actinobaculum_sp_oral_taxon_183,0.011498302840837998,0.9368326600417473
+PS(18:0/20:1(11Z)),Mogibacterium_diversum,0.0496568951190477,0.732006516870338
+PS(18:0/20:1(11Z)),Actinomyces_sp_oral_taxon_181,-0.055932529395049634,0.6996436272708282
+PS(18:0/20:1(11Z)),Enterorhabdus_caecimuris,0.17533536437201291,0.22325765733354505
+PS(18:0/20:1(11Z)),Asaccharobacter_celatus,0.2310020522229354,0.10652066833745683
+PS(18:0/20:1(11Z)),Eubacterium_sulci,0.06266468328628341,0.6655058468813513
+PS(18:0/20:1(11Z)),Gemella_sanguinis,0.17866924954042304,0.21444108032783482
+PS(18:0/20:1(11Z)),Dorea_longicatena,0.32663394512114025,0.020605670303008573
+PS(18:0/20:1(11Z)),Adlercreutzia_equolifaciens,0.22333809619747824,0.11898197404319803
+PS(18:0/20:1(11Z)),Enterococcus_faecalis,0.01902029440876405,0.8956931615517655
+PS(18:0/20:1(11Z)),Atopobium_rimae,0.07532937386745762,0.6031149013239796
+PS(18:0/20:1(11Z)),Atopobium_parvulum,0.008944623017175331,0.9508419547022534
+PS(18:0/20:1(11Z)),Eubacterium_brachy,0.2519546120600093,0.07754268122371323
+PS(18:0/20:1(11Z)),Collinsella_aerofaciens,-0.045052835112824825,0.7560500963699878
+PS(18:0/20:1(11Z)),Actinomyces_naeslundii,0.27289912594797705,0.05518061379306315
+Fumonisin FP3,Actinobaculum_sp_oral_taxon_183,-0.061672715237221995,0.6704960131593647
+Fumonisin FP3,Mogibacterium_diversum,-0.17042439247168314,0.23669713848896376
+Fumonisin FP3,Actinomyces_sp_oral_taxon_181,-0.36084249866667434,0.010041917096892524
+Fumonisin FP3,Enterorhabdus_caecimuris,-0.2798653901978129,0.04901915658534911
+Fumonisin FP3,Asaccharobacter_celatus,-0.2848162074380991,0.04498978233537172
+Fumonisin FP3,Eubacterium_sulci,-0.3250246921685163,0.021275331981943348
+Fumonisin FP3,Gemella_sanguinis,-0.10948836238306645,0.44911115414965075
+Fumonisin FP3,Dorea_longicatena,-0.18670979080014538,0.1941855859235083
+Fumonisin FP3,Adlercreutzia_equolifaciens,-0.31183151790385666,0.02748908275545496
+Fumonisin FP3,Enterococcus_faecalis,-0.20133677496106334,0.16089674054290612
+Fumonisin FP3,Atopobium_rimae,-0.34276239733303937,0.014821503781091459
+Fumonisin FP3,Atopobium_parvulum,-0.42383296482046023,0.0021611163227387865
+Fumonisin FP3,Eubacterium_brachy,-0.14805812975040264,0.30483585502957755
+Fumonisin FP3,Collinsella_aerofaciens,-0.27377522403315724,0.05437298889649339
+Fumonisin FP3,Actinomyces_naeslundii,-0.12151517530710193,0.40055476869273254
+Succinylproline,Actinobaculum_sp_oral_taxon_183,0.12791174212893947,0.3760271960464209
+Succinylproline,Mogibacterium_diversum,0.13527888126606588,0.3489194559857107
+Succinylproline,Actinomyces_sp_oral_taxon_181,-0.04792135982023784,0.7410414446539595
+Succinylproline,Enterorhabdus_caecimuris,0.1735748586738942,0.22801331944392028
+Succinylproline,Asaccharobacter_celatus,0.08934496414452098,0.5372207998734434
+Succinylproline,Eubacterium_sulci,0.11972049059941184,0.4076000011386868
+Succinylproline,Gemella_sanguinis,0.19183283501342002,0.1820113839267153
+Succinylproline,Dorea_longicatena,0.11352609221713707,0.43245969102223525
+Succinylproline,Adlercreutzia_equolifaciens,0.12745311258523065,0.37775531589939826
+Succinylproline,Enterococcus_faecalis,0.03287959429807688,0.820676755668988
+Succinylproline,Atopobium_rimae,0.034090665545856734,0.8141865091893067
+Succinylproline,Atopobium_parvulum,0.010840172265848248,0.9404414732721836
+Succinylproline,Eubacterium_brachy,0.15227116596281243,0.29112467299554406
+Succinylproline,Collinsella_aerofaciens,-0.14322766983629384,0.3210586834249304
+Succinylproline,Actinomyces_naeslundii,0.20845371226810208,0.1463009834896411
+Vulgarone A,Actinobaculum_sp_oral_taxon_183,0.11327753851332745,0.4334746083199188
+Vulgarone A,Mogibacterium_diversum,0.08677904001386977,0.5490178945300025
+Vulgarone A,Actinomyces_sp_oral_taxon_181,0.2103296157459679,0.14262253415950585
+Vulgarone A,Enterorhabdus_caecimuris,-0.076306918852834,0.5984067544468515
+Vulgarone A,Asaccharobacter_celatus,0.026881180516525445,0.8529902690806401
+Vulgarone A,Eubacterium_sulci,0.14718464191623978,0.30772968377133286
+Vulgarone A,Gemella_sanguinis,0.18808553695906324,0.19086093473110796
+Vulgarone A,Dorea_longicatena,0.14410745378007614,0.318064037708696
+Vulgarone A,Adlercreutzia_equolifaciens,0.018222253309608083,0.9000468706065318
+Vulgarone A,Enterococcus_faecalis,0.10484357405806524,0.4686939910931458
+Vulgarone A,Atopobium_rimae,0.2196648529930607,0.12533315877467385
+Vulgarone A,Atopobium_parvulum,0.3503804314343847,0.012612229942670963
+Vulgarone A,Eubacterium_brachy,0.08478735377474783,0.5582593597926806
+Vulgarone A,Collinsella_aerofaciens,0.185638814190904,0.19680206573617376
+Vulgarone A,Actinomyces_naeslundii,0.2174509615805522,0.12928271921257428
+Butyl salicylate,Actinobaculum_sp_oral_taxon_183,-0.17126419494511336,0.23436052595084753
+Butyl salicylate,Mogibacterium_diversum,0.060407853965210465,0.6768794392154376
+Butyl salicylate,Actinomyces_sp_oral_taxon_181,0.017721678150341248,0.90277925106927
+Butyl salicylate,Enterorhabdus_caecimuris,-0.08224862558398473,0.5701441904208308
+Butyl salicylate,Asaccharobacter_celatus,-0.010617807333116987,0.9416610672345656
+Butyl salicylate,Eubacterium_sulci,-0.008510018717890342,0.9532277430856855
+Butyl salicylate,Gemella_sanguinis,0.032812879116996214,0.8210346386953177
+Butyl salicylate,Dorea_longicatena,0.0904458193394472,0.5321976120133841
+Butyl salicylate,Adlercreutzia_equolifaciens,0.0073402316148562146,0.9596513239486103
+Butyl salicylate,Enterococcus_faecalis,0.10455363054573653,0.46993139873573697
+Butyl salicylate,Atopobium_rimae,0.18887328411293205,0.1889756203055992
+Butyl salicylate,Atopobium_parvulum,0.4598484005452457,0.0007802292781111768
+Butyl salicylate,Eubacterium_brachy,0.002783613211770781,0.984693285437917
+Butyl salicylate,Collinsella_aerofaciens,0.0670509145175943,0.6436145956553863
+Butyl salicylate,Actinomyces_naeslundii,-0.03311196985337732,0.8194304964800869
+"9-deoxy-9-methylene-16,16-dimethyl -PGE2",Actinobaculum_sp_oral_taxon_183,0.24993679332979438,0.08002855222424203
+"9-deoxy-9-methylene-16,16-dimethyl -PGE2",Mogibacterium_diversum,0.24346341781669018,0.08842868619982788
+"9-deoxy-9-methylene-16,16-dimethyl -PGE2",Actinomyces_sp_oral_taxon_181,0.15002735749193,0.29837626080302115
+"9-deoxy-9-methylene-16,16-dimethyl -PGE2",Enterorhabdus_caecimuris,0.313865156492731,0.02644260078062647
+"9-deoxy-9-methylene-16,16-dimethyl -PGE2",Asaccharobacter_celatus,0.38136056289629455,0.00628499645985006
+"9-deoxy-9-methylene-16,16-dimethyl -PGE2",Eubacterium_sulci,0.2955780933094526,0.03715971349294362
+"9-deoxy-9-methylene-16,16-dimethyl -PGE2",Gemella_sanguinis,0.2943550663980027,0.03798862724053798
+"9-deoxy-9-methylene-16,16-dimethyl -PGE2",Dorea_longicatena,0.3734676655021193,0.007552601818261381
+"9-deoxy-9-methylene-16,16-dimethyl -PGE2",Adlercreutzia_equolifaciens,0.384823191724315,0.005790199982887438
+"9-deoxy-9-methylene-16,16-dimethyl -PGE2",Enterococcus_faecalis,-0.14792917999011307,0.3052619561905352
+"9-deoxy-9-methylene-16,16-dimethyl -PGE2",Atopobium_rimae,0.021650321868840465,0.8813672567201829
+"9-deoxy-9-methylene-16,16-dimethyl -PGE2",Atopobium_parvulum,0.19470844938712126,0.17542311374268837
+"9-deoxy-9-methylene-16,16-dimethyl -PGE2",Eubacterium_brachy,0.1570108317017735,0.27618724999325067
+"9-deoxy-9-methylene-16,16-dimethyl -PGE2",Collinsella_aerofaciens,0.011911623782495261,0.9345668810546458
+"9-deoxy-9-methylene-16,16-dimethyl -PGE2",Actinomyces_naeslundii,0.0027724082183712448,0.9847548929131524
